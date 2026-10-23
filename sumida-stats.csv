@@ -1,0 +1,13 @@
+protein_system,experimental_endpoint,predictor,n_designs,spearman_rho,permutation_p_value,q_bh_within_system_6_metrics,bootstrap_ci_low,bootstrap_ci_high,valid_bootstrap_resamples
+hyperTEV,catalytic_efficiency_kcat_over_Km,composite_reward,3,1,0.3333333333333333,1,,,0
+hyperTEV,catalytic_efficiency_kcat_over_Km,sctm,3,0.5,1,1,,,0
+hyperTEV,catalytic_efficiency_kcat_over_Km,plddt_0_1,3,0.5,1,1,,,0
+hyperTEV,catalytic_efficiency_kcat_over_Km,scrmsd_angstrom,3,-0.5,1,1,,,0
+hyperTEV,catalytic_efficiency_kcat_over_Km,hydrophobic_core_ratio,3,-0.5,1,1,,,0
+hyperTEV,catalytic_efficiency_kcat_over_Km,aar,3,1,0.3333333333333333,1,,,0
+myoglobin,high_temperature_heme_retention,composite_reward,14,0.5472527472527472,0.04479,0.08958,-0.031829179,0.8657718120805368,20000
+myoglobin,high_temperature_heme_retention,sctm,14,0.7230769230769231,0.0043,0.0129,0.2801687279917241,0.8823529411764705,20000
+myoglobin,high_temperature_heme_retention,plddt_0_1,14,0.37142857142857144,0.18976,0.227712,-0.237896875,0.7822222222222222,20000
+myoglobin,high_temperature_heme_retention,scrmsd_angstrom,14,-0.723076923,0.0043,0.0129,-0.882352941,-0.280168728,20000
+myoglobin,high_temperature_heme_retention,hydrophobic_core_ratio,14,-0.123881888,0.67233,0.67233,-0.661461085,0.4155566096180717,19831
+myoglobin,high_temperature_heme_retention,aar,14,-0.442244492,0.11373,0.170595,-0.744518307,0.0917329009878582,20000
